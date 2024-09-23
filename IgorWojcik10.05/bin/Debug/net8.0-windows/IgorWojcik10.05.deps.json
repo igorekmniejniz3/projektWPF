@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IgorWojcik10.05/1.0.0": {
+        "runtime": {
+          "IgorWojcik10.05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IgorWojcik10.05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
